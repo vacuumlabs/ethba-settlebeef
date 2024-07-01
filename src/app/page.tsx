@@ -67,6 +67,7 @@ export default function Home() {
 
   return (
     <Container>
+      <></>
       <Tabs value={tabIndex} onChange={handleChangeTabIndex} aria-label="Beef tabs" centered>
         <Tab
           label={
